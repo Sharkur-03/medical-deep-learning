@@ -2,18 +2,12 @@
 
 ![Breast Cancer Prediction Using Logistic Regression](https://github.com/user-attachments/assets/2a825e45-9679-4562-ae2d-342f18a24859)
 
-![Breast Cancer](https://github.com/user-attachments/assets/5307594a-22f9-4bfd-9519-499f9df97cf3)
+
 
 
 ## 📌 **Project Overview**
 This project aims to develop a machine learning model to classify breast cancer cases as **Malignant** or **Benign** based on digitized features extracted from fine needle aspirate (FNA) of a breast mass. The dataset is sourced from the **UCI Machine Learning Repository**.
 
-![Problem Statement](https://github.com/user-attachments/assets/7561052c-9613-4330-a3dd-405d0f82d3b5)
-
-
-## ** Work Flow**
-
-![Work Flow](https://github.com/user-attachments/assets/05bc6d3b-a6ea-4e76-b14c-ef528a8aa29e)
 
 
 ## 📂 **Dataset Overview**
